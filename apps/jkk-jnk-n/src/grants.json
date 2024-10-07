@@ -1,0 +1,122 @@
+[
+  {
+    "role": "kmk",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "kmk",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "kmk",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "kmk",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "kmk",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "kmk",
+    "resource": "Mlkm",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Mlkm",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "kmk",
+    "resource": "Mlkm",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Mlkm",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "kmk",
+    "resource": "Mlkm",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Mlkm",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "kmk",
+    "resource": "Mlkm",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Mlkm",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "kmk",
+    "resource": "Mlkm",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Mlkm",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
